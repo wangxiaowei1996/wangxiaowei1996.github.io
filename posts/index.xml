@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on vito</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on vito</description>
+    <generator>Hugo -- 0.153.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Jan 2026 20:58:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Template_test</title>
+      <link>http://localhost:1313/posts/template_test/</link>
+      <pubDate>Sat, 10 Jan 2026 20:58:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/template_test/</guid>
+      <description>&lt;h1 id=&#34;目录1&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2&#34;&gt;目录2&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Jan 2026 18:39:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction-&#34;&gt;Introduction-&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;h2 id=&#34;命令&#34;&gt;命令&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;hugo new posts/test.md&lt;/code&gt; 按照模板创建，包括了date等信息。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;你好&#34;&gt;你好&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
