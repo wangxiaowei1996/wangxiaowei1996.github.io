@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paper-Modx on vito</title>
+    <link>https://wangxiaowei1996.github.io/tags/paper-modx/</link>
+    <description>Recent content in Paper-Modx on vito</description>
+    <generator>Hugo -- 0.153.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Jan 2026 18:39:01 +0800</lastBuildDate>
+    <atom:link href="https://wangxiaowei1996.github.io/tags/paper-modx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://wangxiaowei1996.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Jan 2026 18:39:01 +0800</pubDate>
+      <guid>https://wangxiaowei1996.github.io/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction-&#34;&gt;Introduction-&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;h2 id=&#34;命令&#34;&gt;命令&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;hugo new posts/test.md&lt;/code&gt; 按照模板创建，包括了date等信息。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
