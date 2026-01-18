@@ -6,8 +6,26 @@
     <description>Recent content in Posts on vito</description>
     <generator>Hugo -- 0.153.3</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 11 Jan 2026 10:02:01 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 17:20:41 +0800</lastBuildDate>
     <atom:link href="https://wangxiaowei1996.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog设计理念</title>
+      <link>https://wangxiaowei1996.github.io/posts/blog%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5/</link>
+      <pubDate>Sun, 18 Jan 2026 17:20:41 +0800</pubDate>
+      <guid>https://wangxiaowei1996.github.io/posts/blog%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5/</guid>
+      <description>&lt;h1 id=&#34;定位&#34;&gt;定位&lt;/h1&gt;
+&lt;p&gt;博客：静态加载速度快
+阅读友好，看文章的时候不会分心&lt;/p&gt;
+&lt;h1 id=&#34;rss-友链&#34;&gt;rss 友链&lt;/h1&gt;
+&lt;p&gt;rss 友链这种臃肿的任务交给 三方平台打理维护 io&lt;/p&gt;
+&lt;h1 id=&#34;是否需要toc&#34;&gt;是否需要toc&lt;/h1&gt;
+&lt;p&gt;自带了置顶的toc，但想要跳转的话就要返回顶部，改造成侧边的toc&lt;/p&gt;
+&lt;h1 id=&#34;timeline-归档&#34;&gt;timeline 归档&lt;/h1&gt;
+&lt;p&gt;文章合集按照时间归类，格式带调整&lt;/p&gt;
+&lt;h1 id=&#34;域名有必要吗&#34;&gt;域名有必要吗&lt;/h1&gt;
+&lt;p&gt;域名购买 树立个人品牌、SEO优化 目的还是让更多人看到blog&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.travellings.cn/&#34;&gt;https://www.travellings.cn/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mind_relax</title>
       <link>https://wangxiaowei1996.github.io/posts/mind_relax/</link>
@@ -26,7 +44,17 @@
       <pubDate>Sat, 10 Jan 2026 20:58:29 +0800</pubDate>
       <guid>https://wangxiaowei1996.github.io/posts/template_test/</guid>
       <description>&lt;h1 id=&#34;目录1&#34;&gt;目录1&lt;/h1&gt;
-&lt;h2 id=&#34;目录2&#34;&gt;目录2&lt;/h2&gt;</description>
+&lt;h2 id=&#34;目录2&#34;&gt;目录2&lt;/h2&gt;
+&lt;h1 id=&#34;目录1-1&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2-1&#34;&gt;目录2&lt;/h2&gt;
+&lt;h1 id=&#34;目录1-2&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2-2&#34;&gt;目录2&lt;/h2&gt;
+&lt;h1 id=&#34;目录1-3&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2-3&#34;&gt;目录2&lt;/h2&gt;
+&lt;h1 id=&#34;目录1-4&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2-4&#34;&gt;目录2&lt;/h2&gt;
+&lt;h1 id=&#34;目录1-5&#34;&gt;目录1&lt;/h1&gt;
+&lt;h2 id=&#34;目录2-5&#34;&gt;目录2&lt;/h2&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
